@@ -9,8 +9,8 @@
 //     console.log("FluminenC")
 // } 
 
-let nota3 = 10
-let nota4 = 1
+let nota1 = 10
+let nota2 = 1
 let media = (nota3 + nota4) / 2 
 if (media >= 8) {
     console.log("Conceito bom")
