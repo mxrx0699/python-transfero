@@ -1,26 +1,26 @@
-// let nota = 10
-// let nota1 = 10
-// media = (nota + nota1) / 2 
-// if (media >=8){
-//     if (media==10)
-//     console.log("Conceito ótimo")
-// } else {
-//     console.log("Conceito bom")
-// }
+let nota = 10
+let nota1 = 10
+media = (nota + nota1) / 2 
+if (media >=8){
+    if (media==10)
+    console.log("Conceito ótimo")
+} else {
+    console.log("Conceito bom")
+}
 
-// let valoa = 10
-// //verificar se a idade é válida para tirar habilitação
-// if (valoa >= 18) {
-//     console.log("Você pode tirar habilitação")
-// } else {
-//     console.log("Não pode tirar habilitação")
-// }
+let valoa = 10
+//verificar se a idade é válida para tirar habilitação
+if (valoa >= 18) {
+    console.log("Você pode tirar habilitação")
+} else {
+    console.log("Não pode tirar habilitação")
+}
 
-// let idade = 17
-// //verificando se a idade é válida para votar
-// if (idade >=16) { 
-//     console.log("Você pode votar!")
-// }
+let idade = 17
+//verificando se a idade é válida para votar
+if (idade >=16) { 
+    console.log("Você pode votar!")
+}
 
 let valor1 = 8
 let valor2 = 4
