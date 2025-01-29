@@ -1,11 +1,11 @@
-let idade = 18
+let idade = prompt("Digite uma idade")
 switch(true) {
     case (idade >= 16 && idade <= 17):
-        console.log("Compra apenas acompanhado de um responsável legal");
+        document.write("Compra apenas acompanhado de um responsável legal");
         break;
     case (idade >= 18):
-        console.log("Pode comprar bebida");
+        document.write("Pode comprar bebida");
         break;
     default:
-        console.log("Não pode comprar bebida")
+        document.write("Não pode comprar bebida")
 }
